@@ -1,5 +1,5 @@
 {
     "name": "santerref/spss",
     "description": "SPSS Reader and Writer.",
-    "type": "library",
+    "type": "library"
 }
